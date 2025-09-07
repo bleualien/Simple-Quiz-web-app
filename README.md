@@ -21,10 +21,15 @@ A simple web-based quiz application built with **HTML, CSS, and JavaScript**. Us
 ---
 
 ## Folder Structure
+
 simple-quiz-web-app/
+
 ├── index.html # Main HTML file
+
 ├── style.css # Styles
+
 ├── script.js # Quiz logic
+
 └── README.md # This file
 
 
